@@ -23,7 +23,7 @@ Magie, intrigues, action, amitié, amour : bienvenue dans l’univers du trône 
             {
           "id": 2,
           "title": "Be well Bee ",
-          "image": book15.jpg",
+          "image":" book15.jpg",
           "description": "Bzzzreeheee! A precious bee with a special gift follows her higher calling, believing in every possibility. In this story, a remarkable honey bee meets her destiny, when she learns about a lily on the verge of extinction. She'll do everything in her power to pollinate this flower: dashing past frog tongues, zooming through a rainstorm, and climbing a mountain on her way to save the day. Her adventure shows that every individual has a place of bee-longing in this world as well as a calling in life.",
           "date": "28 août 2020",
           "prix": "14.03$",
@@ -49,7 +49,7 @@ Magie, intrigues, action, amitié, amour : bienvenue dans l’univers du trône 
           {
           "id": 4,
           "title": "An Arrow to the Moon",
-          "image": "book13.png",
+          "image": "book12.png",
           "description": "Romeo and Juliet meets Chinese mythology in this magical novel by the New York Times best-selling author of The Astonishing Color of After.",
           "date": "12 avril 2022",
           "prix": "3.99$",
@@ -122,20 +122,76 @@ A Goodreads Most Anticipated Book
        "arrivals": [
         
             {
-          "id": 12,
-          "title": "Be well Bee ",
-          "image": "history_of_modern_architecture.jpg",
-          "description": "Bzzzreeheee! A precious bee with a special gift follows her higher calling, believing in every possibility. In this story, a remarkable honey bee meets her destiny, when she learns about a lily on the verge of extinction. She'll do everything in her power to pollinate this flower: dashing past frog tongues, zooming through a rainstorm, and climbing a mountain on her way to save the day. Her adventure shows that every individual has a place of bee-longing in this world as well as a calling in life.",
+          "id": 9,
+          "title": "The Giver  ",
+          "image": "book.jpg",
+          "description": "December is the time of the annual Ceremony at which each twelve-year-old receives a life assignment determined by the Elders. Jonas watches his friend Fiona named Caretaker of the Old and his cheerful pal Asher labeled the Assistant Director of Recreation. ",
           "date": "28 août 2020",
-          "prix": "14.03$",
+          "prix": "1.89$",
           "langue": "Anglais",
-          "broche": "34 pages",
-          "poids": "81,6 g",
-          "dimensions": "‎ 21.59 x 0.2 x 21.59 cm",
-          "organizer": "Cabe Lindsay"
+          "broche": "Livre audio",
+          "poids": "---",
+          "dimensions": "‎4 heures et 49 minutes",
+          "organizer": "Lois Lowry"
         },
               {
+          "id": 10,
+          "title": "Harry Potter and the Philosopher's Stone",
+          "image": "book5.png",
+          "description": "Turning the envelope over, his hand trembling, Harry saw a purple wax seal bearing a coat of arms; a lion, an eagle, a badger and a snake surrounding a large letter 'H'.",
+          "date": "20 novembre 2015",
+          "prix": "4.8$",
+          "langue": "Anglais",
+          "broche": "Livre audio",
+          "poids": "---",
+          "dimensions": "‎ 8 heures et 25 minutes",
+          "organizer": "J.K. Rowling"
+        } 
+               {
+          "id": 11,
+          "title": "The Ruins of Gorlan",
+          "image": "book7.png",
+          "description": "The Ruins of Gorlan is the first thrilling book in John Flanagan’s Ranger’s Apprentice series – over eight million sold worldwide.",
+          "date": "6 octobre 2011",
+          "prix": "6.99$",
+          "langue": "Anglais",
+          "broche": "258 pages",
+          "poids": "81,6 g",
+          "dimensions": "‎ 21.59 x 0.2 x 21.59 cm",
+          "organizer": "John Flanagan "
+        } 
+               {
+          "id": 12,
+          "title": "Percy Jackson and the Lightning Thief",
+          "image": "book8.png",
+          "description": "Percy Jackson - now in stunning graphic novel form!
+
+Look, I didn't want to be a half-blood. I never asked to be the son of a Greek God. I was just a normal kid, going to school, playing basketball, skateboarding. The usual. ",
+          "date": "4 novembre 2010",
+          "prix": "10.99$",
+          "langue": "Anglais",
+          "broche": "128 pages",
+          "poids": "300 g",
+          "dimensions": "‎ 21.6 x 13.8 x 0.76 cm",
+          "organizer": "Rick Riordan"
+        } 
+               {
           "id": 13,
+          "title": "The Lost Hero (Heroes of Olympus)",
+          "image": "book6.png",
+          "description": "OLD ENEMIES AWAKEN AS CAMP HALF-BLOOD'S NEW ARRIVALS PREPARE FOR WAR
+
+When Jason, Piper and Leo crash land at Camp Half-Blood, they have no idea what to expect. Apparently this is the only safe place for children",
+          "date": "21 septembre 2011",
+          "prix": "6.99$",
+          "langue": "Anglais",
+          "broche": "576 pages",
+          "poids": "400 g",
+          "dimensions": "‎ 19.8 x 12.9 x 3.43 cm",
+          "organizer": "Rick Riordan"
+        } 
+  {
+          "id": 14,
           "title": "clever lands",
           "image": "darknet.jpg",
           "description": "Bzzzreeheee! A precious bee with a special gift follows her higher calling, believing in every possibility. In this story, a remarkable honey bee meets her destiny, when she learns about a lily on the verge of extinction. She'll do everything in her power to pollinate this flower: dashing past frog tongues, zooming through a rainstorm, and climbing a mountain on her way to save the day. Her adventure shows that every individual has a place of bee-longing in this world as well as a calling in life.",
