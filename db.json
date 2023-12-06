@@ -23,7 +23,7 @@ Magie, intrigues, action, amitié, amour : bienvenue dans l’univers du trône 
             {
           "id": 2,
           "title": "Be well Bee ",
-          "image": "be_well_bee.jpg",
+          "image": book15.jpg",
           "description": "Bzzzreeheee! A precious bee with a special gift follows her higher calling, believing in every possibility. In this story, a remarkable honey bee meets her destiny, when she learns about a lily on the verge of extinction. She'll do everything in her power to pollinate this flower: dashing past frog tongues, zooming through a rainstorm, and climbing a mountain on her way to save the day. Her adventure shows that every individual has a place of bee-longing in this world as well as a calling in life.",
           "date": "28 août 2020",
           "prix": "14.03$",
@@ -35,71 +35,92 @@ Magie, intrigues, action, amitié, amour : bienvenue dans l’univers du trône 
         },
               {
           "id": 3,
-          "title": "clever lands",
-          "image": "darknet.jpg",
-          "description": "Bzzzreeheee! A precious bee with a special gift follows her higher calling, believing in every possibility. In this story, a remarkable honey bee meets her destiny, when she learns about a lily on the verge of extinction. She'll do everything in her power to pollinate this flower: dashing past frog tongues, zooming through a rainstorm, and climbing a mountain on her way to save the day. Her adventure shows that every individual has a place of bee-longing in this world as well as a calling in life.",
-          "date": "28 août 2020",
+          "title": "Anna and Fuzz: The Magical Land of Wonders ",
+          "image": "book13.png",
+          "description": "This book is about a young girl who finds a friend from another world. Both Anna and Fuzz are lost and once they find each other they discover how beautiful their worlds really are",
+          "date": "29 septembre 2023",
           "prix": "14.03$",
           "langue": "Anglais",
-          "broche": "34 pages",
-          "poids": "81,6 g",
-          "dimensions": "‎ 21.59 x 0.2 x 21.59 cm",
-          "organizer": "Cabe Lindsay"
+          "broche": "40 pages",
+          "poids": " 132 g",
+          "dimensions": "‎ 21.59 x 0.25 x 21.59 cm",
+          "organizer": "Violeta Ferber"
         } ,
           {
           "id": 4,
-          "title": "clever lands",
-          "image": "be_well_bee.jpg",
-          "description": "Bzzzreeheee! A precious bee with a special gift follows her higher calling, believing in every possibility. In this story, a remarkable honey bee meets her destiny, when she learns about a lily on the verge of extinction. She'll do everything in her power to pollinate this flower: dashing past frog tongues, zooming through a rainstorm, and climbing a mountain on her way to save the day. Her adventure shows that every individual has a place of bee-longing in this world as well as a calling in life.",
-          "date": "28 août 2020",
-          "prix": "14.03$",
+          "title": "An Arrow to the Moon",
+          "image": "book13.png",
+          "description": "Romeo and Juliet meets Chinese mythology in this magical novel by the New York Times best-selling author of The Astonishing Color of After.",
+          "date": "12 avril 2022",
+          "prix": "3.99$",
           "langue": "Anglais",
           "broche": "34 pages",
           "poids": "81,6 g",
           "dimensions": "‎ 21.59 x 0.2 x 21.59 cm",
-          "organizer": "Cabe Lindsay"
+          "organizer": "Emily X.R. Pan"
         } ,
           {
           "id": 5,
-          "title": "clever lands",
-          "image": "history_of_modern_architecture.jpg",
-          "description": "Bzzzreeheee! A precious bee with a special gift follows her higher calling, believing in every possibility. In this story, a remarkable honey bee meets her destiny, when she learns about a lily on the verge of extinction. She'll do everything in her power to pollinate this flower: dashing past frog tongues, zooming through a rainstorm, and climbing a mountain on her way to save the day. Her adventure shows that every individual has a place of bee-longing in this world as well as a calling in life.",
-          "date": "28 août 2020",
+          "title": "Hello Beautiful",
+          "image": "book11.png",
+          "description": "From the New York Times bestselling author of Dear Edward comes a beautifully tender, heartbreaking, and moving story of four sisters over three decades.",
+          "date": "13 mars 2023",
           "prix": "14.03$",
           "langue": "Anglais",
           "broche": "34 pages",
-          "poids": "81,6 g",
+          "poids": "870g",
           "dimensions": "‎ 21.59 x 0.2 x 21.59 cm",
-          "organizer": "Cabe Lindsay"
+          "organizer": "Ann Napolitano"
         } ,
           {
           "id": 6,
-          "title": "clever lands",
-          "image": "darknet.jpg",
-          "description": "Bzzzreeheee! A precious bee with a special gift follows her higher calling, believing in every possibility. In this story, a remarkable honey bee meets her destiny, when she learns about a lily on the verge of extinction. She'll do everything in her power to pollinate this flower: dashing past frog tongues, zooming through a rainstorm, and climbing a mountain on her way to save the day. Her adventure shows that every individual has a place of bee-longing in this world as well as a calling in life.",
-          "date": "28 août 2020",
+          "title": "Lessons in Chemistry",
+          "image": "book10.png",
+          "description": "INCLUDES AN EXCLUSIVE AUTHOR INTERVIEW WITH PANDORA SYKES
+
+Your ability to change everything - including yourself - starts here",
+          "date": "05 avril 2022",
           "prix": "14.03$",
           "langue": "Anglais",
-          "broche": "34 pages",
+          "broche": "Livre audio",
           "poids": "81,6 g",
-          "dimensions": "‎ 21.59 x 0.2 x 21.59 cm",
-          "organizer": "Cabe Lindsay"
-        }
+          "dimensions": "‎ 11 heures et 56 minutes",
+          "organizer": "Bonnie Garmus"
+        },
+            {
+          "id": 7,
+          "title": "Seven Myths About Education",
+          "image": "book2.png",
+          "description": "In this controversial new book, the author offers a thought-provoking critique of educational orthodoxy. Drawing on her recent experience of teaching in challenging schools, she shows through a wide range of examples and case studies just how much classroom practice contradicts basic scientific principles. ",
+          "date": "07 juin 2022",
+          "prix": "12.99$",
+          "langue": "Anglais",
+          "broche": "livre audio",
+          "poids": "---",
+          "dimensions": "‎6 heures et 6 minutes",
+          "organizer": "Daisy Christodoulou"
+        },
+            {
+          "id": 8,
+          "title": "Fourth Wing",
+          "image": "book9.png",
+          "description": "An Instant New York Times Bestseller
+
+A Goodreads Most Anticipated Book
+
+"Suspenseful, sexy, and with incredibly entertaining storytelling, the first in Yarros' Empyrean series will delight fans of romantic, adventure-filled fantasy."—Booklist, starred review",
+          "date": "10 septembre 2013",
+          "prix": "12.99$",
+          "langue": "Anglais",
+          "broche": "livre audio",
+          "poids": "81,6 g",
+          "dimensions": "‎ 20 heures et 43 minutes",
+          "organizer": "Rebecca Yarros
+"
+        },
       ],
        "arrivals": [
-        {
-          "id": 11,
-          "title": "Bash and Lucy",
-          "image": "history_of_modern_architecture.jpg",
-          "description": "Bash and Lucy, whose authors were featured on the Today Show, is a Mom's Choice Silver Award Winner, and finalist, 2013 USA Best Book Awards.In this contemporary boy-and-dog tale, talkative Bash has a big problem in soccer: His beloved dog, Lucy, is a pro at nabbing the ball, but sometimes at the wrong moment.Coach wants to ban Lucy from soccer practice and games, separating Bash from a companion who boosts his confidence in sports - and life.",
-          "date": "10 septembre 2013",
-          "prix": "8.00$",
-          "langue": "Anglais",
-          "broche": "34 pages",
-          "poids": "81,6 g",
-          "dimensions": "‎ 21.59 x 0.2 x 21.59 cm",
-          "organizer": "Lisa & Michael cohn"
-        },
+        
             {
           "id": 12,
           "title": "Be well Bee ",
