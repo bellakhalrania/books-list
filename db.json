@@ -6,12 +6,11 @@
           "image": "book14.PNG",
           "description": "Son successeur ne devra pas seulement protéger leur secret des humains, il devra aussi affronter les Ténèbres qui viennent d’être aperçues pour la première fois sur Terre, au nord de l’Islande.
 
-Katleen Ash, 20 ans, a renié sa famille trois ans auparavant, car ses pouvoirs ne se sont jamais manifestés. Elle s’était promis de ne pas remettre les pieds dans le monde des magiciens, pourtant, quand elle apprend la mort de son père, elle décide d'affronter les fantômes de son passé.
+Katleen Ash; 20 ans, a renié sa famille trois ans auparavant, car ses pouvoirs ne se sont jamais manifestés. Elle s’était promis de ne pas remettre les pieds dans le monde des magiciens, pourtant, quand elle apprend la mort de son père, elle décide d'affronter les fantômes de son passé.
 
-Mais en se rendant à l'enterrement, elle n'imaginait pas bouleverser sa vie, son destin, et celui de tous les magiciens ! Qu'a-t-elle donc fait ?
+Mais en se rendant à l'enterrement; elle n'imaginait pas bouleverser sa vie, son destin, et celui de tous les magiciens ! Qu'a-t-elle donc fait ?
 
-Magie, intrigues, action, amitié, amour : bienvenue dans l’univers du trône des magiciens !
-",
+Magie;intrigues;action;amitié; amour : bienvenue dans l’univers du trône des magiciens !",
           "date": "22 mars 2023",
           "prix": "16.99$",
           "langue": "Français",
@@ -115,15 +114,14 @@ A Goodreads Most Anticipated Book
           "broche": "livre audio",
           "poids": "81,6 g",
           "dimensions": "‎ 20 heures et 43 minutes",
-          "organizer": "Rebecca Yarros
-"
+          "organizer": "Rebecca Yarros"
         },
       ],
        "arrivals": [
         
             {
           "id": 9,
-          "title": "The Giver  ",
+          "title": "The Giver ",
           "image": "book.jpg",
           "description": "December is the time of the annual Ceremony at which each twelve-year-old receives a life assignment determined by the Elders. Jonas watches his friend Fiona named Caretaker of the Old and his cheerful pal Asher labeled the Assistant Director of Recreation. ",
           "date": "28 août 2020",
@@ -192,16 +190,16 @@ When Jason, Piper and Leo crash land at Camp Half-Blood, they have no idea what 
         } 
   {
           "id": 14,
-          "title": "clever lands",
+          "title": "THE SPIRIT GLASSs",
           "image": "darknet.jpg",
-          "description": "Bzzzreeheee! A precious bee with a special gift follows her higher calling, believing in every possibility. In this story, a remarkable honey bee meets her destiny, when she learns about a lily on the verge of extinction. She'll do everything in her power to pollinate this flower: dashing past frog tongues, zooming through a rainstorm, and climbing a mountain on her way to save the day. Her adventure shows that every individual has a place of bee-longing in this world as well as a calling in life.",
-          "date": "28 août 2020",
-          "prix": "14.03$",
+          "description": "Corazon yearns to finally start training as a babaylan (a mystical healer and spirit guide) under her powerful guardian, Aunt Tina. As soon as her magic awakens, Corazon plans to bring her parents back from the dead and no longer have to rely on a soul key to allow visits with her their ghosts for a few hours every Saturday night",
+          "date": "30 août 2022",
+          "prix": "10.99$",
           "langue": "Anglais",
           "broche": "34 pages",
           "poids": "81,6 g",
           "dimensions": "‎ 21.59 x 0.2 x 21.59 cm",
-          "organizer": "Cabe Lindsay"
+          "organizer": "Roshani Chokshi"
         } 
       ]
 }
