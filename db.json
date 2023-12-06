@@ -1,1 +1,131 @@
+{
+      "books": [
+        {
+          "id": 1,
+          "title": "Le défi de la couronne",
+          "image": "book14.PNG",
+          "description": "Son successeur ne devra pas seulement protéger leur secret des humains, il devra aussi affronter les Ténèbres qui viennent d’être aperçues pour la première fois sur Terre, au nord de l’Islande.
+
+Katleen Ash, 20 ans, a renié sa famille trois ans auparavant, car ses pouvoirs ne se sont jamais manifestés. Elle s’était promis de ne pas remettre les pieds dans le monde des magiciens, pourtant, quand elle apprend la mort de son père, elle décide d'affronter les fantômes de son passé.
+
+Mais en se rendant à l'enterrement, elle n'imaginait pas bouleverser sa vie, son destin, et celui de tous les magiciens ! Qu'a-t-elle donc fait ?
+
+Magie, intrigues, action, amitié, amour : bienvenue dans l’univers du trône des magiciens !
+",
+          "date": "22 mars 2023",
+          "prix": "16.99$",
+          "langue": "Français",
+          "broche": " 526 pages",
+          "poids": " ‎ 744 g",
+          "dimensions": "‎ 14 x 3.35 x 21.01 cm",
+          "organizer": "Jupiter Phaeton"
+        },
+            {
+          "id": 2,
+          "title": "Be well Bee ",
+          "image": "be_well_bee.jpg",
+          "description": "Bzzzreeheee! A precious bee with a special gift follows her higher calling, believing in every possibility. In this story, a remarkable honey bee meets her destiny, when she learns about a lily on the verge of extinction. She'll do everything in her power to pollinate this flower: dashing past frog tongues, zooming through a rainstorm, and climbing a mountain on her way to save the day. Her adventure shows that every individual has a place of bee-longing in this world as well as a calling in life.",
+          "date": "28 août 2020",
+          "prix": "14.03$",
+          "langue": "Anglais",
+          "broche": "34 pages",
+          "poids": "81,6 g",
+          "dimensions": "‎ 21.59 x 0.2 x 21.59 cm",
+          "organizer": "Cabe Lindsay"
+        },
+              {
+          "id": 3,
+          "title": "clever lands",
+          "image": "darknet.jpg",
+          "description": "Bzzzreeheee! A precious bee with a special gift follows her higher calling, believing in every possibility. In this story, a remarkable honey bee meets her destiny, when she learns about a lily on the verge of extinction. She'll do everything in her power to pollinate this flower: dashing past frog tongues, zooming through a rainstorm, and climbing a mountain on her way to save the day. Her adventure shows that every individual has a place of bee-longing in this world as well as a calling in life.",
+          "date": "28 août 2020",
+          "prix": "14.03$",
+          "langue": "Anglais",
+          "broche": "34 pages",
+          "poids": "81,6 g",
+          "dimensions": "‎ 21.59 x 0.2 x 21.59 cm",
+          "organizer": "Cabe Lindsay"
+        } ,
+          {
+          "id": 4,
+          "title": "clever lands",
+          "image": "be_well_bee.jpg",
+          "description": "Bzzzreeheee! A precious bee with a special gift follows her higher calling, believing in every possibility. In this story, a remarkable honey bee meets her destiny, when she learns about a lily on the verge of extinction. She'll do everything in her power to pollinate this flower: dashing past frog tongues, zooming through a rainstorm, and climbing a mountain on her way to save the day. Her adventure shows that every individual has a place of bee-longing in this world as well as a calling in life.",
+          "date": "28 août 2020",
+          "prix": "14.03$",
+          "langue": "Anglais",
+          "broche": "34 pages",
+          "poids": "81,6 g",
+          "dimensions": "‎ 21.59 x 0.2 x 21.59 cm",
+          "organizer": "Cabe Lindsay"
+        } ,
+          {
+          "id": 5,
+          "title": "clever lands",
+          "image": "history_of_modern_architecture.jpg",
+          "description": "Bzzzreeheee! A precious bee with a special gift follows her higher calling, believing in every possibility. In this story, a remarkable honey bee meets her destiny, when she learns about a lily on the verge of extinction. She'll do everything in her power to pollinate this flower: dashing past frog tongues, zooming through a rainstorm, and climbing a mountain on her way to save the day. Her adventure shows that every individual has a place of bee-longing in this world as well as a calling in life.",
+          "date": "28 août 2020",
+          "prix": "14.03$",
+          "langue": "Anglais",
+          "broche": "34 pages",
+          "poids": "81,6 g",
+          "dimensions": "‎ 21.59 x 0.2 x 21.59 cm",
+          "organizer": "Cabe Lindsay"
+        } ,
+          {
+          "id": 6,
+          "title": "clever lands",
+          "image": "darknet.jpg",
+          "description": "Bzzzreeheee! A precious bee with a special gift follows her higher calling, believing in every possibility. In this story, a remarkable honey bee meets her destiny, when she learns about a lily on the verge of extinction. She'll do everything in her power to pollinate this flower: dashing past frog tongues, zooming through a rainstorm, and climbing a mountain on her way to save the day. Her adventure shows that every individual has a place of bee-longing in this world as well as a calling in life.",
+          "date": "28 août 2020",
+          "prix": "14.03$",
+          "langue": "Anglais",
+          "broche": "34 pages",
+          "poids": "81,6 g",
+          "dimensions": "‎ 21.59 x 0.2 x 21.59 cm",
+          "organizer": "Cabe Lindsay"
+        }
+      ],
+       "arrivals": [
+        {
+          "id": 11,
+          "title": "Bash and Lucy",
+          "image": "history_of_modern_architecture.jpg",
+          "description": "Bash and Lucy, whose authors were featured on the Today Show, is a Mom's Choice Silver Award Winner, and finalist, 2013 USA Best Book Awards.In this contemporary boy-and-dog tale, talkative Bash has a big problem in soccer: His beloved dog, Lucy, is a pro at nabbing the ball, but sometimes at the wrong moment.Coach wants to ban Lucy from soccer practice and games, separating Bash from a companion who boosts his confidence in sports - and life.",
+          "date": "10 septembre 2013",
+          "prix": "8.00$",
+          "langue": "Anglais",
+          "broche": "34 pages",
+          "poids": "81,6 g",
+          "dimensions": "‎ 21.59 x 0.2 x 21.59 cm",
+          "organizer": "Lisa & Michael cohn"
+        },
+            {
+          "id": 12,
+          "title": "Be well Bee ",
+          "image": "history_of_modern_architecture.jpg",
+          "description": "Bzzzreeheee! A precious bee with a special gift follows her higher calling, believing in every possibility. In this story, a remarkable honey bee meets her destiny, when she learns about a lily on the verge of extinction. She'll do everything in her power to pollinate this flower: dashing past frog tongues, zooming through a rainstorm, and climbing a mountain on her way to save the day. Her adventure shows that every individual has a place of bee-longing in this world as well as a calling in life.",
+          "date": "28 août 2020",
+          "prix": "14.03$",
+          "langue": "Anglais",
+          "broche": "34 pages",
+          "poids": "81,6 g",
+          "dimensions": "‎ 21.59 x 0.2 x 21.59 cm",
+          "organizer": "Cabe Lindsay"
+        },
+              {
+          "id": 13,
+          "title": "clever lands",
+          "image": "darknet.jpg",
+          "description": "Bzzzreeheee! A precious bee with a special gift follows her higher calling, believing in every possibility. In this story, a remarkable honey bee meets her destiny, when she learns about a lily on the verge of extinction. She'll do everything in her power to pollinate this flower: dashing past frog tongues, zooming through a rainstorm, and climbing a mountain on her way to save the day. Her adventure shows that every individual has a place of bee-longing in this world as well as a calling in life.",
+          "date": "28 août 2020",
+          "prix": "14.03$",
+          "langue": "Anglais",
+          "broche": "34 pages",
+          "poids": "81,6 g",
+          "dimensions": "‎ 21.59 x 0.2 x 21.59 cm",
+          "organizer": "Cabe Lindsay"
+        } 
+      ]
+}
 
